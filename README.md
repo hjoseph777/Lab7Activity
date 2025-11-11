@@ -19,7 +19,6 @@ Lab7Activity demonstrates advanced React Native animations using React Native Re
 
 [![Download Lab7Activity](https://img.shields.io/badge/Download-Lab7Activity.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/Lab7Activity/releases/download/v1/Lab7Activity.zip)
 
-[![Release v1.0](https://img.shields.io/badge/Release-v1.0-green?style=for-the-badge&logo=github)](https://github.com/hjoseph777/Lab7Activity/releases/tag/v1)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=expo)](https://snack.expo.dev/@hjoseph777/lab7activity)
 
