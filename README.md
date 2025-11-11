@@ -1,6 +1,5 @@
 ## Lab7Activity – React Native Animations with Reanimated
 
-## Project Metadata
 - Course: Cross Platform Mobile Development
 - Author: Harry Joseph
 - Created: November 11, 2025
