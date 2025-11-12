@@ -1,5 +1,6 @@
 ## Lab7Activity – React Native Animations with Reanimated
 
+## Project Metadata
 - Course: Cross Platform Mobile Development
 - Author: Harry Joseph
 - Created: November 11, 2025
@@ -16,10 +17,54 @@ Lab7Activity demonstrates advanced React Native animations using React Native Re
 
 **Get the complete project instantly:**
 
-[![Download Lab7Activity](https://img.shields.io/badge/Download-Lab7Activity.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/Lab7Activity/releases/download/v1/Lab7Activity.zip)
+[![Download Lab7Activity](https://img.shields.io/badge/Download-Lab7Activity.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/Lab7Activity/releases/download/v1.0/Lab7Activity.zip)
 
+[![🌐 Live Web Demo](https://img.shields.io/badge/🌐%20Live-Web%20Demo-blue?style=for-the-badge&logo=react)](https://lab7activity-demo.surge.sh)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=expo)](https://snack.expo.dev/@hjoseph777/lab7activity)
+## Platform Showcase
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <a href="assets/images/WEB.png" target="_blank">
+          <img src="assets/images/WEB.png" alt="Web Platform Demo" width="200" height="200" 
+               style="cursor: pointer; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;" 
+               onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)'"
+               onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'">
+        </a>
+        <br>
+        <strong>🌐 Web Platform</strong>
+        <br>
+        <em>Cross-browser compatibility</em>
+        <br>
+        <em style="font-size: 12px; color: #666;">💡 Click image to view full size</em>
+        <br>
+        <a href="https://lab7activity-demo.surge.sh" target="_blank">
+          <img src="https://img.shields.io/badge/Try%20Now-Web%20Demo-blue?style=flat-square&logo=react" alt="Web Demo">
+        </a>
+      </td>
+      <td align="left" width="50%">
+        <a href="assets/images/Mobile.png" target="_blank">
+          <img src="assets/images/Mobile.png" alt="Mobile Platform Demo" width="200" height="200" 
+               style="cursor: pointer; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;" 
+               onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)'"
+               onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'">
+        </a>
+        <br>
+        <strong>📱 Mobile Platform</strong>
+        <br>
+        <em>iOS & Android native performance</em>
+        <br>
+        <em style="font-size: 12px; color: #666;">💡 Click image to view full size</em>
+        <br>
+        <a href="https://expo.dev/accounts/hjoseph777/projects/Lab7Activity" target="_blank">
+          <img src="https://img.shields.io/badge/Install-Expo%20Go-black?style=flat-square&logo=expo" alt="Expo Demo">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 *Ready-to-run React Native Reanimated project with interactive animations*
 
