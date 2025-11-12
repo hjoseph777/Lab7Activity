@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Lab7Activity",
-    "slug": "Lab7Activity",
+    "slug": "lab7activity",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.hjoseph777.lab7activity"
     },
     "web": {
       "output": "static",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "343a32b1-fd2c-47b3-98aa-676a4f47ccba"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/343a32b1-fd2c-47b3-98aa-676a4f47ccba"
     }
   }
 }
